@@ -1,7 +1,7 @@
-# AigerimQAtestingREPO
+# QAtestingREPO
 
 
-﻿# AigerimQAtestingREPO
+﻿# QAtestingREPO
 
 # JUie Automated Testing Suite
 
